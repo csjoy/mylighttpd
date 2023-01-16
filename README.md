@@ -5,5 +5,4 @@ Learning how to build custom OCI compliant Container Image from Dockerfile/Conta
 ### Config
 **Base Image:** Debian  
 **Type:** Web Server  
-**App:** lighttpd  
-**Repo:** [quay.io/csjoy/mylighttpd](https://quay.io/csjoy/mylighttpd)
+**App:** lighttpd
