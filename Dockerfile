@@ -1,5 +1,5 @@
 # Pull Base Image
-FROM docker.io/library/debian:latest
+FROM docker.io/library/debian:bookworm-slim
 
 # Load maintainer info
 MAINTAINER csjoy
